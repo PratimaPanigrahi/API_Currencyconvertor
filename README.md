@@ -54,7 +54,7 @@
 
 ### 1. 🏁 Start Page [Screenshot]
 - Enter an amount, choose currencies, and click Get Exchange Rate
-<img src="CurrencyConverterApp/start_page.png" alt="Start Page" width="650" height="600"/>
+<img src="start_page.png" alt="Start Page" width="650" height="600"/>
 
 ---
 
